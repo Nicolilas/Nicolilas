@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  📍 Bello, Antioquia, Colombia | ✉️ <a href="mailto:nicolilasjr@gmail.com">nicolilasjr@gmail.com</a>
+  📍 Bello, Antioquia, Colombia | ✉️ <a href="mailto:canovidalesn@gmail.com">canovidalesn@gmail.com</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/lillystarfull"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nicolilasjr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:canovidalesn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
 ---
@@ -24,8 +24,9 @@
 
 - 🎓 Actualmente curso la **Tecnología en Análisis y Desarrollo de Software (ADSO)** en el **SENA** (Ficha 3484008).
 - 🎓 Admitido en la **Universidad Nacional de Colombia** (Periodo 2026-02).
+- 🎓 Dos semestres cursados **Universidad de Medellín** (Periodo 2025-01-02).
 - 🐧 Entusiasta de los sistemas operativos libres, la optimización de código y la creación de soluciones efectivas orientadas al impacto social y administrativo.
-- 💬 Idiomas: Español (Nativo) e Inglés (En formación A1 → B2 en *Smart Academia de Idiomas*).
+- 💬 Idiomas: Español (Nativo) e Inglés (En formación A2 → C1 en *Smart Academia de Idiomas*).
 
 ---
 
@@ -62,7 +63,7 @@
 ## 🎓 Formación Académica & Certificaciones
 
 - 📘 **Tecnología en Análisis y Desarrollo de Software (ADSO)** — SENA *(En curso, Ficha 3484008)*
-- 🏛️ **Educación Superior** — Universidad Nacional de Colombia *(Admisión 2026-02)*
+- 🎓 Dos semestres cursados **Universidad de Medellín** (Periodo 2025-01-02).
 - 📜 **Bachiller Académico** — I.E. Andrés Bello *(Graduado en Noviembre 2024)*
 - 🗣️ **Inglés (Nivel A1 - B2)** — Smart Academia de Idiomas *(En formación)*
 
